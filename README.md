@@ -1,6 +1,5 @@
 # Cycle-1-2-Implementation-of-distance-vector-routing-protocol-RIP-Cisco-packet-tracer
 # 🧪 EXPT.NO: 2  
-📅 DATE: *(Insert Date)*
 
 ## 📌 TITLE  
 **Implementation of Distance Vector Routing Protocol (RIP)**
@@ -142,6 +141,9 @@ C:\> ping 192.168.3.2
 ## 📤 OUTPUT
 ---
 <img width="972" height="487" alt="image" src="https://github.com/user-attachments/assets/dbb66617-e002-49e9-aba7-4051c2831995" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/69278d70-7e95-4531-9089-24a2019927eb" />
+
 
 ## 📝 RESULT
 Thus, the computers in multiple networks using Distance Vector Routing Protocol are successfully connected and the connectivity between them is verified.
